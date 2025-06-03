@@ -1,14 +1,26 @@
-# React + Vite
+💼 Job Search Frontend
+A responsive and modern job search frontend built with React, Tailwind CSS, DaisyUI, React Router, and React Icons. It provides a clean user experience for browsing job listings, viewing detailed job info, and applying with interactive UI elements.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Job Listings: View a list of jobs with title, location, salary, and job type.
 
-Currently, two official plugins are available:
+Details Page: Click a job to see its full description and requirements.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Apply Button: Apply with one click. Once applied, the button disables and changes to “Applied” with an alert.
 
-## Expanding the ESLint configuration
+Responsive Design: Mobile-friendly layout using Tailwind CSS and DaisyUI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Job-Search-Website-
-# Job-Search-Website-
+Routing: Navigate between pages smoothly with React Router.
+
+Icons: Uses React Icons to enhance the interface visually.
+
+🛠 Tech Stack
+React – For component-based UI and state management
+
+Tailwind CSS – Utility-first CSS framework
+
+DaisyUI – Tailwind-based UI components
+
+React Router DOM – Client-side routing
+
+React Icons – Scalable icon set for UI
